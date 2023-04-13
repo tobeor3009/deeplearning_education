@@ -1,0 +1,6 @@
+*/test_set
+*/training_set
+*/.ipynb_checkpoints
+.ipynb_checkpoints
+*/.data
+*.zip
